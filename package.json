@@ -1,0 +1,24 @@
+{
+  "name": "musicbotterino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JMusicBot-0.3.6.jar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "java -jar JMusicBot-0.3.6.jar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitap90/musicbotterino"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitap90/musicbotterino/issues"
+  },
+  "homepage": "https://github.com/nikitap90/musicbotterino",
+  "dependencies": {
+    "lavaplayer": "^1.0.1",
+  }
+}
